@@ -8,11 +8,14 @@ Team Size : 4
 
 Team Leader : VIGNASH M
 
-Team member : STEPHEN JAYARAJ
+Team member 1 : STEPHEN JAYARAJ
 
-Team member : SURYA K
+Team member 2 : SURYA K
 
-Team member : SUNDARAPANDIYAN G
+Team member 3 : SUNDARAPANDIYAN G
+
+
+![image](https://user-images.githubusercontent.com/83445615/202839662-fae320bb-0151-4908-93a8-23e79b2bd8ac.png)
 
 PROJECT DESCRIPTION:
 
